@@ -168,3 +168,6 @@ Vue.component('TodoItem', {
   `
 })
 ```
+
+
+## Section 2: Advanced
